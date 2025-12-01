@@ -15,13 +15,13 @@ I am solving DSA problems consistently to improve logic building, problem-solvin
 
 ## 📅 Daily Progress
 
-| Day | Topic | Status | Link |
-|-----|-------|--------|------|
-| Day1 | Introduction / Basic Problems | ✔️ Completed | `./Day1` |
-| Day2 | Array Problems | ✔️ Completed | `./Day2` |
-| Day3 | Searching Techniques | ✔️ Completed | `./Day3` |
-| Day4 | Sorting Techniques | ✔️ Completed | `./Day4` |
-| ... | More DSA Topics Coming Daily 🚀 | 🔄 Ongoing | |
+| Day  | Topic                             | Status       | Link                               |
+|------|-----------------------------------|--------------|-----------------------------------|
+| Day01 | Introduction / Basic Problems     | ✔️ Completed | `./DSA/DSA_Assignment/Day01`      |
+| Day02 | Array Problems                    | ⬆ Uploading | `./DSA/DSA_Assignment/Day02`      |
+| Day03 | Searching Techniques              | ⬆ Uploading | `./DSA/DSA_Assignment/Day03`      |
+| Day04 | Sorting Techniques                | ⬆ Uploading | `./DSA/DSA_Assignment/Day04`      |
+| ...  | More DSA Topics Coming Daily 🚀   | 🔄 Ongoing   |                                   |
 
 > 📌 I will keep updating this table as I progress.
 
@@ -44,12 +44,18 @@ I am solving DSA problems consistently to improve logic building, problem-solvin
 
 ## 📂 Repository Structure
 ```text
-DSA_Assignment/
-├── Day1
-├── Day2
-├── Day3
-├── …
-└── Day100 (planned
+DSA/
+└── DSA_Assignment/
+    ├── Day01/
+    │   └── Q1.cpp
+    ├── Day02/
+    │   └── Q1.cpp
+    ├── Day03/
+    │   └── Q1.cpp
+    ├── Day04/
+    ├── Day05/
+    ├── ...
+    └── Day180/   (planned)
 ```
 ---
 
