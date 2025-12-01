@@ -39,10 +39,11 @@ I am solving DSA problems consistently to improve logic building, problem-solvin
 ---
 
 ## 🎯 Goals of This Project
-- Master core Data Structures
-- Improve competitive programming skills
-- Learn efficient algorithm design
-- Track daily growth publicly for accountability
+🔹 DSA from zero → advanced
+🔹 LLMs, GenAI, model prompting
+🔹 Real-world production-level projects
+🔹 How to build things that actually work
+🔹 How to think, not memorize
 
 ---
 
@@ -64,6 +65,7 @@ DSA/
 ---
 
 ## 🔥 Problem-Solving Strategy
+- Use First Thought Principle
 - Understand the problem
 - Write optimal logic
 - Analyze time & space complexity
