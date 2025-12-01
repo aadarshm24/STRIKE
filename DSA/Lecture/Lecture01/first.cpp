@@ -3,7 +3,6 @@ using namespace std;
 
 int main() {
     cout << "Hello, World!" << endl;
-    return 0;
     // data types
     int a = 10;          // integer
     float b = 5.5;      // floating point
@@ -15,5 +14,5 @@ int main() {
     cout << "Double: " << c << endl;
     cout << "Character: " << d << endl;
     cout << "Boolean: " << e << endl;
-    
+return 0;
 }
