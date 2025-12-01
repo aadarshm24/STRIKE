@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+Icon?
+Thumbs.db
+
+# Compiled C++ binaries
+*.out
+*.exe
+*.o
+*.obj
+
+# Backup files
+*~
+*.swp
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
