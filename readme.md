@@ -10,7 +10,7 @@
 
 ### 📊 Progress Bar
 
-Progress: [█-------] 1% (1/180 Days Completed)
+Progress: [█------------------] 1% (1/180 Days Completed)
 
 This repository contains my **daily Data Structures & Algorithms assignments** from the **STRIKE learning program**.  
 I am solving DSA problems consistently to improve logic building, problem-solving skills, and coding efficiency.
