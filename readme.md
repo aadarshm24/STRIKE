@@ -8,6 +8,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aadarshm24.DSA_Assignment">
 </p>
 
+### 📊 Progress Bar
+
+Progress: [█-------] 1% (1/180 Days Completed)
+
 This repository contains my **daily Data Structures & Algorithms assignments** from the **STRIKE learning program**.  
 I am solving DSA problems consistently to improve logic building, problem-solving skills, and coding efficiency.
 
@@ -17,10 +21,10 @@ I am solving DSA problems consistently to improve logic building, problem-solvin
 
 | Day  | Topic                             | Status       | Link                               |
 |------|-----------------------------------|--------------|-----------------------------------|
-| Day01 | Introduction / Basic Problems     | ✔️ Completed | `./DSA/DSA_Assignment/Day01`      |
-| Day02 | Array Problems                    | ⬆ Uploading | `./DSA/DSA_Assignment/Day02`      |
-| Day03 | Searching Techniques              | ⬆ Uploading | `./DSA/DSA_Assignment/Day03`      |
-| Day04 | Sorting Techniques                | ⬆ Uploading | `./DSA/DSA_Assignment/Day04`      |
+| Day01 | Introduction / Basic Problems     | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Day01/)      |
+| Day02 | Array Problems                    | ⬆ Uploading | [Open Folder](./DSA/DSA_Assignment/Day02/)      |
+| Day03 | Searching Techniques              | ⬆ Uploading | [Open Folder](./DSA/DSA_Assignment/Day03/)      |
+| Day04 | Sorting Techniques                | ⬆ Uploading | [Open Folder](./DSA/DSA_Assignment/Day04/)      |
 | ...  | More DSA Topics Coming Daily 🚀   | 🔄 Ongoing   |                                   |
 
 > 📌 I will keep updating this table as I progress.
