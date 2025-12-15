@@ -10,7 +10,10 @@
 
 ### 📊 Progress Bar
 
+![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue?style=for-the-badge&logo=c%2B%2B)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-success?style=for-the-badge)
 ![Progress](https://img.shields.io/badge/Progress-Day%2006-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active%20Learning-brightgreen?style=for-the-badge)
 
 This repository contains my **daily Data Structures & Algorithms assignments** from the **STRIKE learning program**.  
 I am solving DSA problems consistently to improve logic building, problem-solving skills, and coding efficiency.
