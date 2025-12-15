@@ -24,7 +24,7 @@ I am solving DSA problems consistently to improve logic building, problem-solvin
 | Day05 | Pattern and Code               | ✔️ Completed  | [Open Folder](DSA/DSA_Assignment/Lecture_05_Pattern_and_code) |
 | Day06 | Functions Introduction         | ✔️ Completed  | [Open Folder](DSA/DSA_Assignment/Lecture_06_Function) |
 | Day07 | Introduction to Array        | ✔️ Completed  | [Open Folder](DSA/DSA_Assignment/Lecture_07_Introduction_to_Array) |
-| Day08 | Update Soon 🔜    | ✔️ Completed  | [Open Folder](DSA/DSA_Assignment/Lecture_06_Functions) |
+| Day08 | Update Soon 🔜    | 🔜  Uploading  | [Open Folder](DSA/DSA_Assignment/Lecture_06_Functions) |
 | ...   | More DSA Topics Coming Daily 🚀 | 🔄 Ongoing    | — |
 
 
