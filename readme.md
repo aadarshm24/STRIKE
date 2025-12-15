@@ -25,6 +25,7 @@ I am solving DSA problems consistently to improve logic building, problem-solvin
 | Day02 | If else & switch   | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Day02/)      |
 | Day03 |   Loop and patterns printing     | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Day03/)      |
 | Day04 | Loop and patterns printing    | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Day04/)      |
+| Day05 | Loop and patterns printing    | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Day04/)      |
 | ...  | More DSA Topics Coming Daily 🚀   | 🔄 Ongoing   |                                   |
 
 > 📌 I will keep updating this table as I progress.
