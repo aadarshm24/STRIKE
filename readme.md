@@ -26,7 +26,8 @@ I am solving DSA problems consistently to improve logic building, problem-solvin
 | Day03 | Loops and Pattern Printing     | ✔️ Completed  | [Open Folder](DSA/DSA_Assignment/Lecture_03_Loops_and_Patterns) |
 | Day04 | Pattern and Code               | ✔️ Completed  | [Open Folder](DSA/DSA_Assignment/Lecture_04_Pattern_and_Code) |
 | Day05 | Pattern and Code               | ✔️ Completed  | [Open Folder](DSA/DSA_Assignment/Lecture_05_Pattern_and_Code) |
-| Day06 | Functions Introduction         | ✔️ Completed  | [Open Folder](./DSA_Assignment/Lecture_06_Functions) |
+| Day06 | Functions Introduction         | ✔️ Completed  | [Open Folder](DSA/DSA_Assignment/Lecture_06_Functions) |
+| Day07 | Update Soon 🔜    | ✔️ Completed  | [Open Folder](DSA/DSA_Assignment/Lecture_06_Functions) |
 | ...   | More DSA Topics Coming Daily 🚀 | 🔄 Ongoing    | — |
 
 
