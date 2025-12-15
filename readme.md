@@ -21,10 +21,12 @@ I am solving DSA problems consistently to improve logic building, problem-solvin
 
 | Day  | Topic                             | Status       | Link                               |
 |------|-----------------------------------|--------------|-----------------------------------|
-| Day01 | Introduction / Basic Problems     | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Day01/)      |
-| Day02 | Array Problems                    | ⬆ Uploading | [Open Folder](./DSA/DSA_Assignment/Day02/)      |
-| Day03 | Searching Techniques              | ⬆ Uploading | [Open Folder](./DSA/DSA_Assignment/Day03/)      |
-| Day04 | Sorting Techniques                | ⬆ Uploading | [Open Folder](./DSA/DSA_Assignment/Day04/)      |
+| Day01 | Introduction to C++     | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Lecture1 (Introduction to C++))      |
+| Day02 | If else & switch   | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Day02/)      |
+| Day03 |   Loop and patterns printing     | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Day03/)      |
+| Day04 | Loop and patterns printing    | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Day04/)      |
+| Day05 | Loop and patterns printing    | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Day04/)      |
+| Day06 | Function introduction  | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Day04/)      |
 | ...  | More DSA Topics Coming Daily 🚀   | 🔄 Ongoing   |                                   |
 
 > 📌 I will keep updating this table as I progress.
