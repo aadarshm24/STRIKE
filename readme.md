@@ -1,19 +1,12 @@
 # 🚀 STRIKE – DSA Assignments
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C++-blue.svg">
-  <img src="https://img.shields.io/badge/Progress-10%2F100%20days-success">
-  <img src="https://img.shields.io/github/stars/aadarshm24/DSA_Assignment?style=flat&color=yellow">
-  <img src="https://img.shields.io/github/forks/aadarshm24/DSA_Assignment?style=flat&color=orange">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aadarshm24.DSA_Assignment">
-</p>
-
-### 📊 Progress Bar
-
 ![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue?style=for-the-badge&logo=c%2B%2B)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-success?style=for-the-badge)
 ![Progress](https://img.shields.io/badge/Progress-Day%2006-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20Learning-brightgreen?style=for-the-badge)
+
+### 📊 Progress Bar
+Progress: [█------------------] 1% (7/180 Days Completed)
 
 This repository contains my **daily Data Structures & Algorithms assignments** from the **STRIKE learning program**.  
 I am solving DSA problems consistently to improve logic building, problem-solving skills, and coding efficiency.
