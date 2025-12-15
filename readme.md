@@ -21,7 +21,7 @@ I am solving DSA problems consistently to improve logic building, problem-solvin
 
 | Day  | Topic                             | Status       | Link                               |
 |------|-----------------------------------|--------------|-----------------------------------|
-| Day01 | Introduction to C++     | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Lecture_1 (Introduction to C++))      |
+| Day01 | Introduction to C++     | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Lecture_1(Introduction to C++))      |
 | Day02 | If else & switch   | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Day02/)      |
 | Day03 |   Loop and patterns printing     | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Day03/)      |
 | Day04 | Loop and patterns printing    | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Day04/)      |
