@@ -23,8 +23,8 @@ I am solving DSA problems consistently to improve logic building, problem-solvin
 |------|-----------------------------------|--------------|-----------------------------------|
 | Day01 | Introduction to C++     | ✔️ Completed | [Open Folder](./DSA/DSA_Assignment/Day01/)      |
 | Day02 | If else & switch   | ⬆ Uploading | [Open Folder](./DSA/DSA_Assignment/Day02/)      |
-| Day03 | Searching Techniques              | ⬆ Uploading | [Open Folder](./DSA/DSA_Assignment/Day03/)      |
-| Day04 | Sorting Techniques                | ⬆ Uploading | [Open Folder](./DSA/DSA_Assignment/Day04/)      |
+| Day03 |   Loop and patterns printing     | ⬆ Uploading | [Open Folder](./DSA/DSA_Assignment/Day03/)      |
+| Day04 | Loop and patterns printing    | ⬆ Uploading | [Open Folder](./DSA/DSA_Assignment/Day04/)      |
 | ...  | More DSA Topics Coming Daily 🚀   | 🔄 Ongoing   |                                   |
 
 > 📌 I will keep updating this table as I progress.
