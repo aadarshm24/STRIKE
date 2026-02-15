@@ -40,11 +40,13 @@ I am solving DSA problems consistently to improve logic building, problem-solvin
 ---
 
 ## 🎯 Goals of This Project
+```text
 🔹 DSA from zero → advanced
 🔹 LLMs, GenAI, model prompting
 🔹 Real-world production-level projects
 🔹 How to build things that actually work
 🔹 How to think, not memorize
+```
 
 ---
 
