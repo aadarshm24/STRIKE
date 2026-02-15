@@ -1,26 +1,33 @@
-// Reverse_array
+// maximum element in array
 
-#include<iostream>
+#include <iostream>
 using namespace std;
+
 int main()
 {
-    int arr[5]={1,2,3,4,5};
-    cout<<"Array element is: ";
-    for (int i = 0; i < 5; i++)
+    int arr[10] = {1, 6, 3, 7, 23, 64, 74, 12, 54, 67};
+    // traversal
+    cout << endl<< "Array elements are: ";
+    
+    for (int i = 0; i < 10; i++)
     {
-        cout<<arr[i];
-    }
-    cout<<endl;
-    for (int i = 0; i < 5 / 2; i++)
-    {
-        int temp = arr[i];
-        arr[i] = arr[4 - i];
-        arr[4 - i] = temp;
-    }
-    cout << "Reversed array element is: ";
-    for (int i = 0; i < 5; i++)
-    {
-        cout << arr[i];
+        cout << arr[i] << " ";
     }
     cout << endl;
+    // Finding maximum array
+    int max = 0;
+    arr[0] = max;
+    cout << endl;
+    for (int i = 0; i < 10; i++)
+    {
+        if (arr[i] > max)
+        {
+            max = arr[i];
+        }
+    }
+
+    cout << "Max element in array is: " << max << endl
+         << endl;
+
+    return 0;
 }
