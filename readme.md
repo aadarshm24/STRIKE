@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Active%20Learning-brightgreen?style=for-the-badge)
 
 ### 📊 Progress Bar
-Progress: [███--------------------] Day 07 • Ongoing 🚀
+Progress: Day 07 • Ongoing 🚀
 
 This repository contains my **daily Data Structures & Algorithms assignments** from the **STRIKE learning program**.  
 I am solving DSA problems consistently to improve logic building, problem-solving skills, and coding efficiency.
@@ -40,11 +40,13 @@ I am solving DSA problems consistently to improve logic building, problem-solvin
 ---
 
 ## 🎯 Goals of This Project
+```text
 🔹 DSA from zero → advanced
 🔹 LLMs, GenAI, model prompting
 🔹 Real-world production-level projects
 🔹 How to build things that actually work
 🔹 How to think, not memorize
+```
 
 ---
 
